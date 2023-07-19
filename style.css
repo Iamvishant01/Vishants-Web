@@ -75,6 +75,8 @@ nav ul li a:hover::after{
 }
 .header-text h1 span{
     color: #ff004f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 00;
 }
 .header-text h1{
     font-family: 'Raleway', sans-serif;
