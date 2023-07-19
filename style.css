@@ -522,3 +522,14 @@ nav .fas{
     margin-top: -20px;
     display: block;
 }
+@media only screen and (min-width: 360px){
+
+    .layer1{
+        width: 110%;
+        margin-bottom: 770px;
+        margin-left: -5px;
+    }
+    .layer2{
+        margin-bottom: 370px;
+    }
+}
