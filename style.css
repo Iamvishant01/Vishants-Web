@@ -43,6 +43,7 @@ nav ul li a{
     text-decoration: none;
     font-size: 15px;   
     position: relative;
+    font-family: 'Open Sans', sans-serif;
 }
 nav ul li a:hover{
     color: #ff004f;
