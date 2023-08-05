@@ -463,7 +463,7 @@ nav .fas{
             content: "";
             width: 75px;
             height: 75px;
-            border: 15px solid #575757;
+            border: 15px solid #999999;
             border-top-color: #ff004f;
             border-radius: 50%;
             animation: loading 0.75s ease infinite;
