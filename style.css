@@ -452,7 +452,7 @@ nav .fas{
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: #585858;
+        background-color: #cac9c9;
         transition: opacity 0.75s, visibility 0.75s;
         }
         .loader-hidden{
