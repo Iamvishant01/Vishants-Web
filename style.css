@@ -464,7 +464,7 @@ nav .fas{
             width: 75px;
             height: 75px;
             border: 15px solid #999999;
-            border-top-color: rgb(0, 255, 13);
+            border-top-color: #ff004f;
             border-radius: 50%;
             animation: loading 0.75s ease infinite;
             }
