@@ -570,6 +570,9 @@ nav .fas{
     #preloader{
         background-size: 190%;
       }
+    #io{
+        font-size: 25px;
+    }
 }
 #msg{
     color: #61b752;
